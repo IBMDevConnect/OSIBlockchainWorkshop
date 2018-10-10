@@ -13,7 +13,9 @@ http://bit.ly/ibmcloudsignup
 Convert the IBM Cloud Lite account to Trial account
 Account -- Billing and Usage -- Apply Promo Code
 
-Please follow the pdf - "IBM Cloud Sign up and PROMO Code.pdf"
+Please follow the pdf - "IBM Cloud Sign up and PROMO Code.pdf" found at - 
+
+https://github.com/IBMDevConnect/OSIBlockchainWorkshop/blob/master/IBM%20Cloud%20Sign%20up%20and%20PROMO%20Code.pdf
 
 2. Create a Lite free Kubernetes 
 
