@@ -10,15 +10,13 @@ Following are the steps to be followed:
 
 http://bit.ly/ibmcloudsignup
 
-2. Enroll on Cognitive Class URL and get promo code:
-
-http://cognitiveclass.ai/
-
-3. Convert the IBM Cloud Lite account to Trial account
+Convert the IBM Cloud Lite account to Trial account
 Account -- Billing and Usage -- Apply Promo Code
 
-4. Create a Lite free Kubernetes 
+Please follow the pdf - "IBM Cloud Sign up and PROMO Code.pdf"
 
-5. Visit the code pattern at the following link:
+2. Create a Lite free Kubernetes 
+
+3. Visit the code pattern at the following link:
 
 https://developer.ibm.com/patterns/deploy-hyperledger-fabric-network-on-ibm-cloud/
