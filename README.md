@@ -13,15 +13,14 @@ http://bit.ly/ibmcloudsignup
 Convert the IBM Cloud Lite account to Trial account
 Account -- Billing and Usage -- Apply Promo Code
 
-Please follow the pdf - "IBM Cloud Sign up and PROMO Code.pdf" found at - 
-
-https://github.com/IBMDevConnect/OSIBlockchainWorkshop/blob/master/IBM%20Cloud%20Sign%20up%20and%20PROMO%20Code.pdf
+Please follow the pdf - [IBM Cloud Sign up and PROMO Code](https://github.com/IBMDevConnect/OSIBlockchainWorkshop/blob/master/IBM%20Cloud%20Sign%20up%20and%20PROMO%20Code.pdf)
 
 ## 2. Create a Kubernetes cluster on IBM Cloud
+Sign in using IBMCloud ID. GoTo "Catalog" and search for "Kubernetes". In the search result you should see the "Kubernetes Service". Click on the "Kubernetes Service" to create the Kubernetes service on IBM Cloud. 
 
 ## 3. Visit the code pattern at the following link:
 
-https://developer.ibm.com/patterns/deploy-hyperledger-fabric-network-on-ibm-cloud/
+[Deploy Hyperledger Fabric network on IBM Cloud](https://developer.ibm.com/patterns/deploy-hyperledger-fabric-network-on-ibm-cloud)
 
 ## Query 
 
