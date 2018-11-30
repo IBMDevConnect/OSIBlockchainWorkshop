@@ -1,6 +1,4 @@
-# OpenSource India
-
-## Blockchain Workshop
+# Blockchain Workshop
 
 Hyperledger Fabric using IBM Container Service
 
