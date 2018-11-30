@@ -31,6 +31,14 @@ peer chaincode query -C channel1 -n cc -c '{"Args":["query","a"]}'
 
 ```
 
+Similarly for be
+``` 
+peer chaincode query -C channel1 -n cc -c '{"Args":["query","b"]}'
+
+```
+
+
+
 ## Invoke chaincode which makes payment of X units from A to B
 
 Now let’s submit a request to org2peer1 to move 20 from a to b. A new transaction will be generated and upon successful completion of transaction, state will get updated
